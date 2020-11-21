@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+＃个人简历＃
 
-You can use the [editor on GitHub](https://github.com/roseannechang/roseannechang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**姓名**
+*常蕊*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+！C：/Users/admin/Pictures/Camera Roll
 
-### Markdown
+##教育经历##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+*如皋市第一中学2017~2020*
 
-# Header 1
-## Header 2
-### Header 3
+*如皋市第一中学2014~2017*
 
-- Bulleted
-- List
+*2020年 成为了南京理工大学设传学院的一名本科生*
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+###任职与自我评价###
 
-[Link](url) and ![Image](src)
-```
+*我在班级中担任宣传委员的职务同时也是院学生会与校团委宣传部的一名部员*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*为人乐观 乐于帮助他人 诚实守信 希望能够时刻帮助大家 也能说学逗唱 做大家的暖场宝和贴心棉袄*
 
-### Jekyll Themes
+！http://sinastorage.com/kaoshi.edu.sina.com.cn/college_photo/10288.jpg
+非常荣幸能够加入！！！
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roseannechang/roseannechang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
