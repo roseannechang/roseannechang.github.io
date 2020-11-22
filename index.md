@@ -21,7 +21,7 @@
 
 *为人乐观 乐于帮助他人 诚实守信 希望能够时刻帮助大家 也能说学逗唱 做大家的暖场宝和贴心棉袄*
 
-！【校园美图】（http://sinastorage.com/kaoshi.edu.sina.com.cn/college_photo/10288.jpg）
+！【校园美图】（f4bb-hyrtarv7358176.jpg）
 非常荣幸能够加入！！！
 
 
