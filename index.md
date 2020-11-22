@@ -5,7 +5,7 @@
 
 
 ##教育经历
-)！【教育背景】(https://jingyan.baidu.com/article/af9f5a2d5af0b943150a455c.html)
+！【教育背景】(https://jingyan.baidu.com/article/af9f5a2d5af0b943150a455c.html)
 
 
 *如皋市第一中学2017~2020*
