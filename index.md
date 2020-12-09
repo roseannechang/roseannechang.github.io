@@ -4,7 +4,7 @@
 *常蕊*
 
 ##教育经历
-！【教育背景】（https://github.com/roseannechang/roseannechang.github.io/blob/main/QQ%E5%9B%BE%E7%89%8720201108170103.jpg?raw=true）
+
 
 
 *如皋市第一中学2017~2020*
@@ -20,8 +20,7 @@
 
 *为人乐观 乐于帮助他人 诚实守信 希望能够时刻帮助大家 也能说学逗唱 做大家的暖场宝和贴心棉袄*
 
-！【校园美图】（https://github.com/roseannechang/roseannechang.github.io/blob/main/f4bb-hyrtarv7358176.jpg?raw=true）
-非常荣幸能够加入！！！
+
 
 
 
